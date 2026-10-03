@@ -1,0 +1,5 @@
+venv/
+.venv/
+--pychare--/
+node_modules
+*.pyc
